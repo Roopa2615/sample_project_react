@@ -1,0 +1,4 @@
+# anything that is autogenerate will be put inside gitignore
+.parcel-cache
+
+node_modules
